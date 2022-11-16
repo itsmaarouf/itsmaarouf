@@ -6,7 +6,6 @@ i'm Web Developer and Designer
 
 * 🌍  I'm based in Morocco, Tangier
 * ✉️  You can contact me at [contact@itsmaarouf.com](mailto:contact@itsmaarouf.com)
-* 🧠  I’m currently learning web3  
 * 📫  How to reach me @itsmaarouf in everywhere 
 * 🤝  I'm open to collaborating on small projects
 
