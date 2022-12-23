@@ -5,6 +5,7 @@ i'm Web Developer and Designer
 ------------------------------
 
 * 🌍  I'm based in Morocco, Tangier
+* 💬  I am a developer with a passion for technology and science fiction
 * ✉️  You can contact me at [contact@itsmaarouf.com](mailto:contact@itsmaarouf.com)
 * 📫  How to reach me @itsmaarouf in everywhere 
 * 🤝  I'm open to collaborating on small projects
