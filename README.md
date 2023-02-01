@@ -1,6 +1,6 @@
 <img style="object-fit: cover;" src="https://i.pinimg.com/originals/31/25/38/312538d69e5ee384408c05ae74d51247.gif" alt="coding" width="100%" height="250"/>
 <h1 align="center">Hi 👋, I'm Hamza EL Maarouf</h1>
-<h3 align="center">IT-Enthusiasten from Morocco</h3>
+<h3 align="center">IT-Enthusiast from Morocco</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
