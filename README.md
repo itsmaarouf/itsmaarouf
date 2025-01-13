@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **a different small project ;)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **contact@itsmaarouf.com**
 
-- ⚡ Fun fact **Why did the Java developer wear gloves? To catch a NullPointerException.**
+- ⚡ Fun fact **I refactor code in my dreams; sometimes, I wake up with better solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
